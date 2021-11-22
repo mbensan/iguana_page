@@ -1,0 +1,16 @@
+body {
+    background-color: #000000;
+    color: #FFF;
+}
+#texto-imagen {
+    width: 70%;
+    margin: 0 auto;
+}
+.mitad {
+    width: 49%;
+    display: inline-block;
+}
+.mitad img {
+    display: block;
+    width: 100%;
+}
